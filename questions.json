@@ -1,0 +1,4334 @@
+[
+  {
+    "id": 1,
+    "topic": "Foundations & CIA Triad",
+    "question": "What is the primary purpose of information security?",
+    "options": {
+      "A": "To increase computer speed",
+      "B": "To protect information and information systems",
+      "C": "To create software applications",
+      "D": "To increase storage capacity"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "topic": "Foundations & CIA Triad",
+    "question": "Which of the following is considered an information asset?",
+    "options": {
+      "A": "Hardware only",
+      "B": "Software only",
+      "C": "Data only",
+      "D": "Hardware, software, data, people, and processes"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 3,
+    "topic": "Foundations & CIA Triad",
+    "question": "Which statement about the value of an asset is correct?",
+    "options": {
+      "A": "It must always be monetary",
+      "B": "It never changes",
+      "C": "It can be subjective and time-dependent",
+      "D": "Only hardware has value"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "topic": "Foundations & CIA Triad",
+    "question": "Information security protects information in:",
+    "options": {
+      "A": "Digital form only",
+      "B": "Printed form only",
+      "C": "All forms and formats",
+      "D": "Network form only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "topic": "Foundations & CIA Triad",
+    "question": "Cybersecurity primarily focuses on protecting:",
+    "options": {
+      "A": "Only paper documents",
+      "B": "Digital assets and interconnected systems",
+      "C": "Office furniture",
+      "D": "Printed books only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "topic": "Foundations & CIA Triad",
+    "question": "According to the chapter, cybersecurity is:",
+    "options": {
+      "A": "Completely unrelated to information security",
+      "B": "A part of information security",
+      "C": "Only physical security",
+      "D": "Only personnel security"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "topic": "Foundations & CIA Triad",
+    "question": "The Principle of Easiest Penetration states that an attacker:",
+    "options": {
+      "A": "Always attacks the strongest point",
+      "B": "Attacks only through the Internet",
+      "C": "May exploit any available means to penetrate a system",
+      "D": "Must physically enter the organization"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "topic": "Foundations & CIA Triad",
+    "question": "Which of the following is NOT necessarily an information asset?",
+    "options": {
+      "A": "Data",
+      "B": "Software",
+      "C": "People",
+      "D": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 9,
+    "topic": "Foundations & CIA Triad",
+    "question": "What is a vulnerability?",
+    "options": {
+      "A": "A protective measure",
+      "B": "A weakness in a system",
+      "C": "A completed attack",
+      "D": "A security policy only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "topic": "Foundations & CIA Triad",
+    "question": "What is a threat?",
+    "options": {
+      "A": "A circumstance with the potential to cause harm",
+      "B": "A security control",
+      "C": "A type of password",
+      "D": "A software update"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "topic": "Foundations & CIA Triad",
+    "question": "What is a security control?",
+    "options": {
+      "A": "A weakness in a system",
+      "B": "An attacker",
+      "C": "A protective measure that reduces or removes a vulnerability",
+      "D": "A harmful event"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "topic": "Foundations & CIA Triad",
+    "question": "Which of the following best describes an attacker?",
+    "options": {
+      "A": "A person who only creates security policies",
+      "B": "A human who exploits a vulnerability",
+      "C": "A hardware component",
+      "D": "A security control"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "topic": "Foundations & CIA Triad",
+    "question": "Which relationship is correct?",
+    "options": {
+      "A": "A control creates a vulnerability",
+      "B": "A vulnerability always eliminates a threat",
+      "C": "A threat may exploit a vulnerability, while a control helps protect against it",
+      "D": "A threat and a control mean the same thing"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "topic": "Foundations & CIA Triad",
+    "question": "Which of the following is an example of a vulnerability?",
+    "options": {
+      "A": "A properly configured firewall",
+      "B": "A weak authentication mechanism",
+      "C": "An encrypted database",
+      "D": "A security guard"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "topic": "Foundations & CIA Triad",
+    "question": "A threat is best described as:",
+    "options": {
+      "A": "The weakness itself",
+      "B": "The protective measure",
+      "C": "A condition that could exercise a vulnerability",
+      "D": "The value of an asset"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "topic": "Foundations & CIA Triad",
+    "question": "What are the three main principles of the CIA Triad?",
+    "options": {
+      "A": "Control, Identification, Authentication",
+      "B": "Confidentiality, Integrity, Availability",
+      "C": "Cybersecurity, Internet, Access",
+      "D": "Classification, Investigation, Authorization"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "topic": "Foundations & CIA Triad",
+    "question": "Confidentiality means that information is accessed by:",
+    "options": {
+      "A": "Everyone",
+      "B": "Authorized parties only",
+      "C": "Attackers only",
+      "D": "Administrators only, in all cases"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "topic": "Foundations & CIA Triad",
+    "question": "Which action primarily threatens confidentiality?",
+    "options": {
+      "A": "Unauthorized reading of a file",
+      "B": "Deleting a file",
+      "C": "Changing a database record",
+      "D": "Making a server unavailable"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "topic": "Foundations & CIA Triad",
+    "question": "Integrity means that information is:",
+    "options": {
+      "A": "Always publicly available",
+      "B": "Modified only in authorized ways",
+      "C": "Accessible to every user",
+      "D": "Never stored electronically"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "topic": "Foundations & CIA Triad",
+    "question": "Which action primarily threatens integrity?",
+    "options": {
+      "A": "Unauthorized modification of a database",
+      "B": "Reading a public document",
+      "C": "Viewing an authorized report",
+      "D": "Printing an authorized file"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "topic": "Foundations & CIA Triad",
+    "question": "Availability means that information and services are:",
+    "options": {
+      "A": "Available only to attackers",
+      "B": "Usable by authorized parties when needed",
+      "C": "Always secret",
+      "D": "Never modified"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "topic": "Foundations & CIA Triad",
+    "question": "A Denial-of-Service attack primarily affects:",
+    "options": {
+      "A": "Confidentiality",
+      "B": "Integrity",
+      "C": "Availability",
+      "D": "Classification"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "topic": "Foundations & CIA Triad",
+    "question": "Which of the following is described in the chapter as a fourth leg of information security?",
+    "options": {
+      "A": "Privacy",
+      "B": "Hardware",
+      "C": "Authentication",
+      "D": "Classification"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "topic": "Foundations & CIA Triad",
+    "question": "Which security property confirms the identity of a sender?",
+    "options": {
+      "A": "Availability",
+      "B": "Authentication",
+      "C": "Integrity",
+      "D": "Classification"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "topic": "Foundations & CIA Triad",
+    "question": "Which property helps prevent a sender from convincingly denying that they sent a message?",
+    "options": {
+      "A": "Availability",
+      "B": "Confidentiality",
+      "C": "Nonrepudiation",
+      "D": "Interruption"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "topic": "Foundations & CIA Triad",
+    "question": "What is auditability?",
+    "options": {
+      "A": "Hiding all system activities",
+      "B": "Being able to trace actions related to an asset",
+      "C": "Deleting audit records",
+      "D": "Allowing anonymous access"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "topic": "Foundations & CIA Triad",
+    "question": "Authorization refers to:",
+    "options": {
+      "A": "Verifying a user's identity",
+      "B": "Granting specific access rights to a subject",
+      "C": "Creating a backup only",
+      "D": "Detecting natural disasters"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "topic": "Foundations & CIA Triad",
+    "question": "Which act of harm involves unauthorized access to information?",
+    "options": {
+      "A": "Interception",
+      "B": "Interruption",
+      "C": "Modification",
+      "D": "Fabrication"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "topic": "Foundations & CIA Triad",
+    "question": "Which act of harm makes an asset unavailable or unusable?",
+    "options": {
+      "A": "Fabrication",
+      "B": "Modification",
+      "C": "Interruption",
+      "D": "Interception"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "topic": "Foundations & CIA Triad",
+    "question": "Unauthorized tampering with existing data is called:",
+    "options": {
+      "A": "Interception",
+      "B": "Modification",
+      "C": "Interruption",
+      "D": "Classification"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "topic": "Foundations & CIA Triad",
+    "question": "Adding counterfeit records or transactions to a system is called:",
+    "options": {
+      "A": "Interruption",
+      "B": "Interception",
+      "C": "Fabrication",
+      "D": "Authentication"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "topic": "Foundations & CIA Triad",
+    "question": "Illicit copying of information primarily represents:",
+    "options": {
+      "A": "Interception",
+      "B": "Interruption",
+      "C": "Fabrication",
+      "D": "Recovery"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "topic": "Foundations & CIA Triad",
+    "question": "Erasing important files so that they cannot be used is an example of:",
+    "options": {
+      "A": "Interception",
+      "B": "Interruption",
+      "C": "Authentication",
+      "D": "Nonrepudiation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "topic": "Foundations & CIA Triad",
+    "question": "Changing a transmitted message without authorization is an example of:",
+    "options": {
+      "A": "Modification",
+      "B": "Interruption",
+      "C": "Privacy",
+      "D": "Availability"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "In access control, a subject is:",
+    "options": {
+      "A": "The resource being accessed",
+      "B": "The entity requesting access",
+      "C": "The access policy",
+      "D": "The security device"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "In access control, an object is:",
+    "options": {
+      "A": "The resource being accessed",
+      "B": "The person who writes the policy",
+      "C": "The attacker only",
+      "D": "The authentication method"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which of the following is an access mode?",
+    "options": {
+      "A": "Read",
+      "B": "Write",
+      "C": "Execute",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 38,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "An access control policy specifies:",
+    "options": {
+      "A": "Who can access what and how",
+      "B": "Only the color of the user interface",
+      "C": "The price of hardware",
+      "D": "The size of a database"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "The access control paradigm aims to control:",
+    "options": {
+      "A": "Only administrator access",
+      "B": "Only network access",
+      "C": "All accesses by all subjects to protected objects in all modes",
+      "D": "Only access to printed documents"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "A single point of control may become a single point of failure that affects:",
+    "options": {
+      "A": "Availability",
+      "B": "Classification",
+      "C": "Privacy only",
+      "D": "Asset value only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which of the following is an aspect of integrity?",
+    "options": {
+      "A": "Ensuring authorized actions",
+      "B": "Protecting resources from improper changes",
+      "C": "Detecting and correcting errors",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 42,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which of the following is related to availability?",
+    "options": {
+      "A": "Timely access to services",
+      "B": "Sufficient system capacity",
+      "C": "Fault tolerance",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 43,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "What is the purpose of concurrency control?",
+    "options": {
+      "A": "To prevent all users from accessing the system",
+      "B": "To manage simultaneous access to shared resources",
+      "C": "To classify military information",
+      "D": "To eliminate all security policies"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which of the following is a nonhuman threat?",
+    "options": {
+      "A": "Phishing",
+      "B": "Impersonation",
+      "C": "Power failure",
+      "D": "Malware"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 45,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which is an example of a nonmalicious human threat?",
+    "options": {
+      "A": "Deliberately destroying hardware",
+      "B": "Accidentally deleting a file",
+      "C": "Launching a DDoS attack",
+      "D": "Installing malware intentionally"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which is an example of a malicious human threat?",
+    "options": {
+      "A": "Natural flood",
+      "B": "Accidental email to the wrong recipient",
+      "C": "Intentional malware installation",
+      "D": "Unplanned power failure"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 47,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "What does CVE provide?",
+    "options": {
+      "A": "A dictionary of publicly known vulnerabilities and exposures",
+      "B": "A method for encrypting all data",
+      "C": "A firewall configuration",
+      "D": "A physical access card"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "What does CVSS provide?",
+    "options": {
+      "A": "A list of employees",
+      "B": "A standard system for scoring vulnerability severity",
+      "C": "A backup mechanism",
+      "D": "A type of malware"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "CVE and CVSS are:",
+    "options": {
+      "A": "Exactly the same thing",
+      "B": "Two names for a firewall",
+      "C": "Different concepts: vulnerability identification and vulnerability scoring",
+      "D": "Both types of physical controls"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "What does APT stand for?",
+    "options": {
+      "A": "Advanced Protection Technology",
+      "B": "Advanced Persistent Threat",
+      "C": "Authorized Program Transfer",
+      "D": "Automatic Password Tracking"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which characteristic is commonly associated with an APT?",
+    "options": {
+      "A": "Immediate abandonment of the target",
+      "B": "Long-term, stealthy activity",
+      "C": "No planning",
+      "D": "No resources"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 52,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Spear phishing is commonly associated with:",
+    "options": {
+      "A": "Targeted attacks",
+      "B": "Physical fences",
+      "C": "Power failures",
+      "D": "Fire suppression systems"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 53,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Nation-state-sponsored attacks are often associated with:",
+    "options": {
+      "A": "Strategic government objectives",
+      "B": "Only accidental errors",
+      "C": "Only personal entertainment",
+      "D": "Ordinary equipment failure"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 54,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which of the following may be a goal of a nation-state-sponsored cyberattack?",
+    "options": {
+      "A": "Espionage",
+      "B": "Sabotage",
+      "C": "Gaining economic or military advantage",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 55,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "According to the chapter, which of the following can be an attacker type?",
+    "options": {
+      "A": "An individual",
+      "B": "Organized crime groups",
+      "C": "Terrorists",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 56,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which of the following is one of the four ways terrorists may use computers, according to the chapter?",
+    "options": {
+      "A": "As targets",
+      "B": "As enablers",
+      "C": "As methods or enhancers",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 57,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "An insider threat may originate from:",
+    "options": {
+      "A": "Employees",
+      "B": "Contractors",
+      "C": "Suppliers",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 58,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which of the following is an example of a weak security policy?",
+    "options": {
+      "A": "Clearly defined user permissions",
+      "B": "Proper segregation of duties",
+      "C": "Unclear roles and responsibilities",
+      "D": "Strong authentication requirements"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 59,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which is an example of weak security administration?",
+    "options": {
+      "A": "Correctly configured systems",
+      "B": "Strong administrator passwords",
+      "C": "Misconfigured systems and applications",
+      "D": "Restricted administrative access"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 60,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which behavior demonstrates a lack of security awareness?",
+    "options": {
+      "A": "Recognizing phishing emails",
+      "B": "Sharing passwords with other people",
+      "C": "Following security procedures",
+      "D": "Reporting suspicious messages"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 61,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "What is shoulder surfing?",
+    "options": {
+      "A": "Watching someone enter sensitive information",
+      "B": "Encrypting a hard drive",
+      "C": "Updating an operating system",
+      "D": "Reviewing a firewall log"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 62,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Dumpster diving refers to:",
+    "options": {
+      "A": "Searching discarded materials for useful information",
+      "B": "Encrypting discarded files",
+      "C": "Monitoring network packets",
+      "D": "Testing system availability"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 63,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Passive attacks primarily threaten:",
+    "options": {
+      "A": "Confidentiality",
+      "B": "Availability only",
+      "C": "Hardware performance only",
+      "D": "Physical security only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 64,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which is an example of a passive attack?",
+    "options": {
+      "A": "Traffic analysis",
+      "B": "Deleting a database",
+      "C": "Modifying a message",
+      "D": "Denial of Service"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 65,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which of the following is also a passive attack?",
+    "options": {
+      "A": "Snooping",
+      "B": "Fabrication",
+      "C": "Interruption",
+      "D": "Destruction of hardware"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 66,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Active attacks may threaten:",
+    "options": {
+      "A": "Integrity",
+      "B": "Availability",
+      "C": "Authenticity",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 67,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which of the following is an active attack?",
+    "options": {
+      "A": "Traffic analysis",
+      "B": "Snooping",
+      "C": "Replay attack",
+      "D": "Passive observation only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 68,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "A masquerading attack involves:",
+    "options": {
+      "A": "Pretending to be another entity",
+      "B": "Making a backup",
+      "C": "Installing a security patch",
+      "D": "Classifying data"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 69,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "A repudiation attack relates to:",
+    "options": {
+      "A": "Denying an action or transaction",
+      "B": "Encrypting a message",
+      "C": "Preventing physical access",
+      "D": "Improving availability"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 70,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which statement about passive attacks is correct according to the chapter?",
+    "options": {
+      "A": "They always modify data",
+      "B": "They may be difficult to detect",
+      "C": "They always destroy hardware",
+      "D": "They always prevent access to services"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 71,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which statement about active attacks is correct according to the chapter?",
+    "options": {
+      "A": "They never affect system operation",
+      "B": "They can change data or harm the system",
+      "C": "They only observe traffic",
+      "D": "They cannot affect availability"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 72,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "What is risk?",
+    "options": {
+      "A": "The possibility of harm",
+      "B": "A security control",
+      "C": "An information classification label",
+      "D": "A type of hardware"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 73,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "What is residual risk?",
+    "options": {
+      "A": "Risk that existed before any security control",
+      "B": "Risk remaining after controls are applied",
+      "C": "Risk that can never occur",
+      "D": "Risk that affects only hardware"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Why is risk management necessary?",
+    "options": {
+      "A": "Because resources are unlimited",
+      "B": "Because all risks can always be eliminated",
+      "C": "Because organizations must prioritize protection using limited resources",
+      "D": "Because security controls are never needed"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 75,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Which is a key activity in risk management?",
+    "options": {
+      "A": "Assessing asset value",
+      "B": "Identifying possible harm",
+      "C": "Evaluating protection costs",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 76,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "What does residual risk indicate?",
+    "options": {
+      "A": "That security is perfect",
+      "B": "That some risk remains despite protection",
+      "C": "That an asset has no value",
+      "D": "That no threat exists"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 77,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "In attack analysis, method refers to:",
+    "options": {
+      "A": "Why the attacker acts",
+      "B": "How the attacker carries out the attack",
+      "C": "The asset's monetary value",
+      "D": "The classification label"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 78,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Opportunity refers to:",
+    "options": {
+      "A": "The attacker's reason",
+      "B": "The attacker's access or chance to act",
+      "C": "The value of the asset",
+      "D": "The security classification"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 79,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "Motive refers to:",
+    "options": {
+      "A": "Why the attacker wants to act",
+      "B": "The security control",
+      "C": "The system's processing speed",
+      "D": "The access mode"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 80,
+    "topic": "Threats, Attacks & Risk Management",
+    "question": "According to the chapter's method–opportunity–motive model, denying any one of these can:",
+    "options": {
+      "A": "Guarantee that every system is perfectly secure",
+      "B": "Help prevent the contemplated attack",
+      "C": "Increase the attacker's access",
+      "D": "Remove the need for all controls"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 81,
+    "topic": "Data Classification & Security Controls",
+    "question": "Which of the following is a common source of vulnerabilities?",
+    "options": {
+      "A": "Weak access control",
+      "B": "Program errors",
+      "C": "Insufficient resources",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 82,
+    "topic": "Data Classification & Security Controls",
+    "question": "What is an attack surface?",
+    "options": {
+      "A": "The complete set of actual and potential vulnerabilities that may be exploited",
+      "B": "The physical surface of a computer",
+      "C": "A classification policy",
+      "D": "A type of encryption algorithm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 83,
+    "topic": "Data Classification & Security Controls",
+    "question": "Which of the following is a business information classification label?",
+    "options": {
+      "A": "Public",
+      "B": "Sensitive",
+      "C": "Private",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 84,
+    "topic": "Data Classification & Security Controls",
+    "question": "Which classification scheme includes the label Top Secret?",
+    "options": {
+      "A": "Business classification",
+      "B": "Military classification",
+      "C": "Traffic Light Protocol only",
+      "D": "Access mode classification"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 85,
+    "topic": "Data Classification & Security Controls",
+    "question": "Which label indicates that information is intended for public disclosure and generally has low harm if disclosed?",
+    "options": {
+      "A": "Top Secret",
+      "B": "Confidential",
+      "C": "Public",
+      "D": "Secret"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 86,
+    "topic": "Data Classification & Security Controls",
+    "question": "Which business classification may include trade secrets and sensitive internal company information?",
+    "options": {
+      "A": "Public",
+      "B": "Confidential",
+      "C": "Unclassified",
+      "D": "White"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 87,
+    "topic": "Data Classification & Security Controls",
+    "question": "Which military classification indicates that disclosure could cause serious harm to national security?",
+    "options": {
+      "A": "Unclassified",
+      "B": "Secret",
+      "C": "Public",
+      "D": "Green"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "topic": "Data Classification & Security Controls",
+    "question": "Which military classification indicates the gravest level of harm described in the chapter?",
+    "options": {
+      "A": "Unclassified",
+      "B": "SBU",
+      "C": "Secret",
+      "D": "Top Secret"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 89,
+    "topic": "Data Classification & Security Controls",
+    "question": "In the Traffic Light Protocol, which labels are used?",
+    "options": {
+      "A": "Public, Private, Confidential, Secret",
+      "B": "White, Green, Amber, Red",
+      "C": "Low, Medium, High, Critical",
+      "D": "Read, Write, Execute, Delete"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 90,
+    "topic": "Data Classification & Security Controls",
+    "question": "Which is an important step in data classification?",
+    "options": {
+      "A": "Defining classification levels",
+      "B": "Identifying data owners",
+      "C": "Establishing controls for each level",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 91,
+    "topic": "Data Classification & Security Controls",
+    "question": "Which of the following is a security layer?",
+    "options": {
+      "A": "Physical",
+      "B": "Hardware",
+      "C": "Network",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 92,
+    "topic": "Data Classification & Security Controls",
+    "question": "Which of the following is also a security layer mentioned in the chapter?",
+    "options": {
+      "A": "Communications",
+      "B": "Software",
+      "C": "Human/personnel",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 93,
+    "topic": "Data Classification & Security Controls",
+    "question": "Security policies and procedures support security by:",
+    "options": {
+      "A": "Planning and implementation",
+      "B": "Monitoring and auditing",
+      "C": "Detection, correction, and managing changes",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 94,
+    "topic": "Data Classification & Security Controls",
+    "question": "What is the purpose of security controls?",
+    "options": {
+      "A": "To increase vulnerabilities",
+      "B": "To neutralize threats or reduce vulnerabilities",
+      "C": "To eliminate all information assets",
+      "D": "To prevent authorized access"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "topic": "Data Classification & Security Controls",
+    "question": "Which of the following is a physical control?",
+    "options": {
+      "A": "Firewall",
+      "B": "Encryption",
+      "C": "Security fence",
+      "D": "Password policy software"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 96,
+    "topic": "Data Classification & Security Controls",
+    "question": "Which is an example of a procedural or administrative control?",
+    "options": {
+      "A": "Security policy",
+      "B": "Firewall",
+      "C": "Encryption algorithm",
+      "D": "Network protocol"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 97,
+    "topic": "Data Classification & Security Controls",
+    "question": "Which of the following is a technical control?",
+    "options": {
+      "A": "A physical fence",
+      "B": "Encryption",
+      "C": "A written contract",
+      "D": "A security guard"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 98,
+    "topic": "Data Classification & Security Controls",
+    "question": "A firewall is an example of:",
+    "options": {
+      "A": "A technical control",
+      "B": "A physical control",
+      "C": "A human threat",
+      "D": "An information classification level"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 99,
+    "topic": "Data Classification & Security Controls",
+    "question": "What is defense in depth?",
+    "options": {
+      "A": "Using only one security control",
+      "B": "Using overlapping controls and multiple control classes",
+      "C": "Removing all security policies",
+      "D": "Relying entirely on employees"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 100,
+    "topic": "Data Classification & Security Controls",
+    "question": "Which set represents the five functions listed in the chapter for security and cybersecurity risk management?",
+    "options": {
+      "A": "Plan, Build, Sell, Test, Deploy",
+      "B": "Identify, Protect, Detect, Respond, Recover",
+      "C": "Read, Write, Execute, Delete, Print",
+      "D": "Prevent, Ignore, Delay, Remove, Replace"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 101,
+    "topic": "Data Classification & Security Controls",
+    "question": "What are the three fundamental concepts of information security?",
+    "options": {
+      "A": "Authentication, Authorization, Accounting",
+      "B": "Confidentiality, Integrity, Availability",
+      "C": "Encryption, Decryption, Authentication",
+      "D": "Privacy, Safety, Monitoring"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 102,
+    "topic": "Data Classification & Security Controls",
+    "question": "What does confidentiality mean?",
+    "options": {
+      "A": "Ensuring information is always available",
+      "B": "Preventing unauthorized disclosure of information",
+      "C": "Preventing all system failures",
+      "D": "Ensuring data is deleted"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 103,
+    "topic": "Data Classification & Security Controls",
+    "question": "What does integrity protect against?",
+    "options": {
+      "A": "Unauthorized modification or destruction",
+      "B": "Unauthorized reading only",
+      "C": "Power failure only",
+      "D": "Network congestion only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 104,
+    "topic": "Data Classification & Security Controls",
+    "question": "What does availability ensure?",
+    "options": {
+      "A": "Only authorized users can read information",
+      "B": "Information cannot be modified",
+      "C": "Timely and reliable access to information",
+      "D": "All information is encrypted"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 105,
+    "topic": "Authentication & Credentials",
+    "question": "What is cryptography?",
+    "options": {
+      "A": "A method of deleting information",
+      "B": "The study and use of techniques to protect information through transformation",
+      "C": "A method of controlling physical access only",
+      "D": "A database management technique"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 106,
+    "topic": "Authentication & Credentials",
+    "question": "What is the primary purpose of encryption?",
+    "options": {
+      "A": "To make information easier to read",
+      "B": "To conceal the meaning of information from unauthorized parties",
+      "C": "To increase the size of a database",
+      "D": "To delete sensitive information"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 107,
+    "topic": "Authentication & Credentials",
+    "question": "What is plaintext?",
+    "options": {
+      "A": "The encrypted message",
+      "B": "The encryption key",
+      "C": "The original, readable message",
+      "D": "The digital signature"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 108,
+    "topic": "Authentication & Credentials",
+    "question": "What is ciphertext?",
+    "options": {
+      "A": "The original message",
+      "B": "The encrypted message",
+      "C": "The secret key only",
+      "D": "The public key only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 109,
+    "topic": "Authentication & Credentials",
+    "question": "What is encryption?",
+    "options": {
+      "A": "Converting ciphertext into plaintext",
+      "B": "Converting plaintext into ciphertext",
+      "C": "Deleting a secret key",
+      "D": "Verifying a user's identity"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 110,
+    "topic": "Authentication & Credentials",
+    "question": "What is decryption?",
+    "options": {
+      "A": "Converting plaintext into ciphertext",
+      "B": "Restoring plaintext from ciphertext",
+      "C": "Creating a user account",
+      "D": "Calculating access permissions"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 111,
+    "topic": "Authentication & Credentials",
+    "question": "What is a cryptosystem?",
+    "options": {
+      "A": "A system that performs encryption and decryption",
+      "B": "A system used only to create user accounts",
+      "C": "A physical security device",
+      "D": "A network cable"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 112,
+    "topic": "Authentication & Credentials",
+    "question": "What is cryptanalysis?",
+    "options": {
+      "A": "Creating passwords",
+      "B": "Studying techniques for breaking or analyzing encrypted messages",
+      "C": "Managing database records",
+      "D": "Creating physical access cards"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 113,
+    "topic": "Authentication & Credentials",
+    "question": "What is cryptology?",
+    "options": {
+      "A": "Cryptography only",
+      "B": "Cryptanalysis only",
+      "C": "Both cryptography and cryptanalysis",
+      "D": "Authentication only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 114,
+    "topic": "Authentication & Credentials",
+    "question": "Who is a cryptographer?",
+    "options": {
+      "A": "A person who works with cryptographic methods to protect information",
+      "B": "A person who manages physical buildings only",
+      "C": "A person who creates network cables",
+      "D": "A person who only manages user accounts"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 115,
+    "topic": "Authentication & Credentials",
+    "question": "Who is a cryptanalyst?",
+    "options": {
+      "A": "A person who attempts to analyze or break encrypted messages",
+      "B": "A person who only installs operating systems",
+      "C": "A person who creates database tables",
+      "D": "A person who manages employee attendance"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 116,
+    "topic": "Authentication & Credentials",
+    "question": "What is steganography?",
+    "options": {
+      "A": "Hiding the existence of a message or data",
+      "B": "Encrypting every message with RSA",
+      "C": "Managing user roles",
+      "D": "Calculating a hash only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 117,
+    "topic": "Authentication & Credentials",
+    "question": "What is the main difference between cryptography and steganography?",
+    "options": {
+      "A": "They are exactly the same",
+      "B": "Cryptography hides the meaning; steganography hides the existence of the message",
+      "C": "Cryptography hides the existence; steganography always encrypts the message",
+      "D": "Neither can protect information"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 118,
+    "topic": "Authentication & Credentials",
+    "question": "Which security objective prevents unauthorized disclosure?",
+    "options": {
+      "A": "Availability",
+      "B": "Integrity",
+      "C": "Confidentiality",
+      "D": "Accounting"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 119,
+    "topic": "Authentication & Credentials",
+    "question": "Which security objective is concerned with improper modification or destruction of information?",
+    "options": {
+      "A": "Integrity",
+      "B": "Availability",
+      "C": "Identification",
+      "D": "Authentication"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 120,
+    "topic": "Authentication & Credentials",
+    "question": "Which security objective ensures reliable access when needed?",
+    "options": {
+      "A": "Confidentiality",
+      "B": "Availability",
+      "C": "Cryptanalysis",
+      "D": "Encryption"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 121,
+    "topic": "Authentication & Credentials",
+    "question": "What is authentication?",
+    "options": {
+      "A": "Determining what a user is allowed to do",
+      "B": "Verifying the identity of a user or entity",
+      "C": "Encrypting a file",
+      "D": "Recording system events only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 122,
+    "topic": "Authentication & Credentials",
+    "question": "What is identification?",
+    "options": {
+      "A": "Claiming an identity",
+      "B": "Proving an identity",
+      "C": "Assigning permissions",
+      "D": "Encrypting a message"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 123,
+    "topic": "Authentication & Credentials",
+    "question": "What is the difference between identification and authentication?",
+    "options": {
+      "A": "Identification claims identity; authentication verifies it",
+      "B": "Identification grants all permissions; authentication deletes them",
+      "C": "Both mean encryption",
+      "D": "Both mean accounting"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 124,
+    "topic": "Authentication & Credentials",
+    "question": "Which of the following is something a user knows?",
+    "options": {
+      "A": "Fingerprint",
+      "B": "Smart card",
+      "C": "Password",
+      "D": "Face"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 125,
+    "topic": "Authentication & Credentials",
+    "question": "Which of the following is something a user has?",
+    "options": {
+      "A": "Password",
+      "B": "PIN memorized by the user",
+      "C": "Smart card",
+      "D": "Fingerprint"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 126,
+    "topic": "Authentication & Credentials",
+    "question": "Which of the following is something a user is?",
+    "options": {
+      "A": "Password",
+      "B": "Security token",
+      "C": "Fingerprint",
+      "D": "Smart card"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 127,
+    "topic": "Authentication & Credentials",
+    "question": "Which is an example of biometric authentication?",
+    "options": {
+      "A": "Password",
+      "B": "Fingerprint recognition",
+      "C": "Security question",
+      "D": "PIN"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 128,
+    "topic": "Authentication & Credentials",
+    "question": "What is multifactor authentication (MFA)?",
+    "options": {
+      "A": "Using multiple accounts",
+      "B": "Using two or more different authentication-factor categories",
+      "C": "Using the same password twice",
+      "D": "Using encryption without a key"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 129,
+    "topic": "Authentication & Credentials",
+    "question": "Which combination is an example of multifactor authentication?",
+    "options": {
+      "A": "Password and PIN",
+      "B": "Two passwords",
+      "C": "Password and fingerprint",
+      "D": "Two security questions"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 130,
+    "topic": "Authentication & Credentials",
+    "question": "What is the purpose of a password salt?",
+    "options": {
+      "A": "To make passwords readable",
+      "B": "To add random data to password processing so identical passwords need not have identical stored hashes",
+      "C": "To replace authentication",
+      "D": "To publish the password"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 131,
+    "topic": "Authentication & Credentials",
+    "question": "Which practice improves password security?",
+    "options": {
+      "A": "Using short, predictable passwords",
+      "B": "Reusing the same password everywhere",
+      "C": "Using long, unique passwords",
+      "D": "Writing passwords publicly"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 132,
+    "topic": "Authentication & Credentials",
+    "question": "What is the purpose of account lockout after repeated failed logins?",
+    "options": {
+      "A": "To make encryption faster",
+      "B": "To help limit repeated password-guessing attempts",
+      "C": "To improve screen resolution",
+      "D": "To eliminate authorization"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 133,
+    "topic": "Authentication & Credentials",
+    "question": "What is a brute-force password attack?",
+    "options": {
+      "A": "Trying possible passwords until the correct one is found",
+      "B": "Encrypting a file with AES",
+      "C": "Assigning a role to a user",
+      "D": "Creating a digital certificate"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 134,
+    "topic": "Authentication & Credentials",
+    "question": "What is a dictionary attack?",
+    "options": {
+      "A": "Trying words and likely passwords from a list",
+      "B": "Encrypting data with a public key",
+      "C": "Removing access rights",
+      "D": "Creating a hash from a random number only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 135,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What does authorization determine?",
+    "options": {
+      "A": "Whether the user has proved their identity",
+      "B": "What an authenticated user is allowed to access or do",
+      "C": "Whether the computer has power",
+      "D": "Whether a message is plaintext"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 136,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What is access control?",
+    "options": {
+      "A": "A method for controlling access to resources according to permissions",
+      "B": "A method for increasing processor speed",
+      "C": "A method for encrypting every file",
+      "D": "A method for deleting all accounts"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 137,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What is a subject in access control?",
+    "options": {
+      "A": "A passive resource",
+      "B": "An active entity requesting access",
+      "C": "An encryption algorithm",
+      "D": "A security label only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 138,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What is an object in access control?",
+    "options": {
+      "A": "An active entity requesting access",
+      "B": "A passive resource that is accessed",
+      "C": "A password only",
+      "D": "A user authentication factor"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 139,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which is an example of a subject?",
+    "options": {
+      "A": "A file being read",
+      "B": "A database table being accessed",
+      "C": "A user process requesting access to a file",
+      "D": "A document stored on disk"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 140,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which is an example of an object?",
+    "options": {
+      "A": "A process requesting access",
+      "B": "A user requesting a file",
+      "C": "A database table being accessed",
+      "D": "An administrator requesting permission"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 141,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What are the four building blocks of access control described in the chapter?",
+    "options": {
+      "A": "Identification, Authentication, Authorization, Accounting",
+      "B": "Encryption, Decryption, Hashing, Signing",
+      "C": "Confidentiality, Integrity, Availability, Privacy",
+      "D": "Password, PIN, Fingerprint, Smart Card"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 142,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What is the purpose of accounting in access control?",
+    "options": {
+      "A": "To record or track activities and access events",
+      "B": "To encrypt all files",
+      "C": "To prove a fingerprint",
+      "D": "To create a public key"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 143,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which category of controls enforces security rules through policies?",
+    "options": {
+      "A": "Physical",
+      "B": "Administrative",
+      "C": "Logical only",
+      "D": "Environmental"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 144,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which controls implement restrictions on access to objects using technical mechanisms?",
+    "options": {
+      "A": "Logical controls",
+      "B": "Administrative controls only",
+      "C": "Physical controls only",
+      "D": "Natural controls"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 145,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which controls limit physical access to hardware?",
+    "options": {
+      "A": "Logical",
+      "B": "Administrative",
+      "C": "Physical",
+      "D": "Cryptographic"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 146,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What is asset or data classification?",
+    "options": {
+      "A": "Classifying data according to the risk associated with its compromise",
+      "B": "Deleting all old data",
+      "C": "Creating a password for every file",
+      "D": "Converting data to ciphertext"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 147,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What is asset marking?",
+    "options": {
+      "A": "Removing the classification",
+      "B": "Labeling an asset so its classification is clear",
+      "C": "Encrypting every object",
+      "D": "Creating a new user role"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 148,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What is access policy definition?",
+    "options": {
+      "A": "Defining rules that govern access to assets",
+      "B": "Deleting all access logs",
+      "C": "Generating an RSA key only",
+      "D": "Changing plaintext into ciphertext"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 149,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What is data disposal?",
+    "options": {
+      "A": "Assigning a role",
+      "B": "Properly eliminating or disposing of data or assets",
+      "C": "Authenticating a user",
+      "D": "Creating a digital signature"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 150,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which access-control decision determines whether a subject can read or write an object?",
+    "options": {
+      "A": "Access authorization",
+      "B": "Steganography",
+      "C": "Cryptanalysis",
+      "D": "Hashing"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 151,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What does access-control granularity mean?",
+    "options": {
+      "A": "The size of a computer screen",
+      "B": "The fineness or specificity of access control",
+      "C": "The speed of encryption",
+      "D": "The number of processors"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 152,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which permission allows a subject to view a file without necessarily changing it?",
+    "options": {
+      "A": "Write",
+      "B": "Read",
+      "C": "Delete",
+      "D": "Administer"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 153,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which permission allows a subject to modify a file?",
+    "options": {
+      "A": "Read",
+      "B": "Write",
+      "C": "Identify",
+      "D": "Authenticate"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 154,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Why must access policies sometimes be revisited?",
+    "options": {
+      "A": "To determine whether the policy is working as intended",
+      "B": "To ensure that all users have administrator privileges",
+      "C": "To remove all security controls",
+      "D": "To eliminate authentication"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 155,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What is the purpose of tracking access activity?",
+    "options": {
+      "A": "To help monitor and evaluate access-policy effectiveness",
+      "B": "To convert all files into plaintext",
+      "C": "To eliminate the need for authorization",
+      "D": "To replace the operating system"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 156,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What does DAC stand for?",
+    "options": {
+      "A": "Data Access Configuration",
+      "B": "Discretionary Access Control",
+      "C": "Direct Authentication Control",
+      "D": "Digital Access Cryptography"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 157,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "In DAC, who commonly determines permissions for an object?",
+    "options": {
+      "A": "The object owner",
+      "B": "Every user on the network",
+      "C": "The encryption algorithm",
+      "D": "The certificate issuer only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 158,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What does MAC stand for?",
+    "options": {
+      "A": "Mandatory Access Control",
+      "B": "Managed Authentication Cryptography",
+      "C": "Multiple Access Cipher",
+      "D": "Manual Account Configuration"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 159,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which model enforces access according to centrally defined security policies and labels?",
+    "options": {
+      "A": "DAC",
+      "B": "MAC",
+      "C": "RBAC",
+      "D": "ABAC"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 160,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which access-control model assigns permissions based on organizational roles?",
+    "options": {
+      "A": "DAC",
+      "B": "MAC",
+      "C": "RBAC",
+      "D": "Steganography"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 161,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What does RBAC stand for?",
+    "options": {
+      "A": "Role-Based Access Control",
+      "B": "Rule-Based Authentication Cipher",
+      "C": "Read-Based Access Configuration",
+      "D": "Restricted Binary Access Code"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 162,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "In RBAC, permissions are primarily associated with what?",
+    "options": {
+      "A": "Roles",
+      "B": "Random numbers",
+      "C": "Encryption keys",
+      "D": "Network addresses only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 163,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Why is RBAC useful in an organization with high employee turnover?",
+    "options": {
+      "A": "Permissions can be managed through roles rather than individually for every user",
+      "B": "Every employee must receive administrator privileges",
+      "C": "It eliminates authentication",
+      "D": "It does not require security policies"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 164,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "What does ABAC stand for?",
+    "options": {
+      "A": "Attribute-Based Access Control",
+      "B": "Authentication-Based Account Control",
+      "C": "Automated Binary Access Code",
+      "D": "Authorized Block Algorithm Cipher"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 165,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which model can make access decisions based on attributes of the subject, object, and environment?",
+    "options": {
+      "A": "DAC only",
+      "B": "ABAC",
+      "C": "Rail Fence",
+      "D": "DES"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 166,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "A file owner grants another user permission to read the file. Which model best fits this situation?",
+    "options": {
+      "A": "DAC",
+      "B": "MAC",
+      "C": "DES",
+      "D": "AES"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 167,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "A government system restricts access according to security classifications and centrally enforced rules. Which model best fits?",
+    "options": {
+      "A": "DAC",
+      "B": "MAC",
+      "C": "RBAC only",
+      "D": "Rail Fence"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 168,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "A company gives employees permissions according to roles such as Accountant and Manager. Which model is being used?",
+    "options": {
+      "A": "RBAC",
+      "B": "Steganography",
+      "C": "Hill cipher",
+      "D": "Hashing"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 169,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "A system allows access only when the user's department, the data classification, and the current time satisfy a policy. Which model is most suitable?",
+    "options": {
+      "A": "ABAC",
+      "B": "Caesar cipher",
+      "C": "DES",
+      "D": "One-Time Pad"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 170,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which access-control model is associated with preventing conflicts of interest?",
+    "options": {
+      "A": "Brewer and Nash",
+      "B": "AES",
+      "C": "RSA",
+      "D": "Caesar"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 171,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which model is primarily focused on confidentiality?",
+    "options": {
+      "A": "Bell–LaPadula",
+      "B": "Biba",
+      "C": "DES",
+      "D": "Hill"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 172,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which model is primarily focused on integrity?",
+    "options": {
+      "A": "Bell–LaPadula",
+      "B": "Biba",
+      "C": "Rail Fence",
+      "D": "Vigenère"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 173,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which model focuses on data integrity and well-formed transactions?",
+    "options": {
+      "A": "Clark–Wilson",
+      "B": "Bell–LaPadula only",
+      "C": "RSA",
+      "D": "AES"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 174,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which models are associated with formal analysis of access-control policies and system safety?",
+    "options": {
+      "A": "Harrison–Ruzzo–Ullman",
+      "B": "Caesar and Playfair",
+      "C": "AES and DES",
+      "D": "RSA and Diffie–Hellman"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 175,
+    "topic": "Access Control Models (DAC, MAC, RBAC, ABAC)",
+    "question": "Which model is associated with secure creation, deletion, and access control of subjects and objects?",
+    "options": {
+      "A": "Graham–Denning",
+      "B": "Vigenère",
+      "C": "AES",
+      "D": "One-Time Pad"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 176,
+    "topic": "Classical Cryptography & Ciphers",
+    "question": "Which are two common types of operations used in classical encryption?",
+    "options": {
+      "A": "Substitution and transposition",
+      "B": "Authentication and accounting",
+      "C": "Identification and authorization",
+      "D": "Reading and writing"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 177,
+    "topic": "Classical Cryptography & Ciphers",
+    "question": "What is a substitution cipher?",
+    "options": {
+      "A": "A cipher that replaces symbols with other symbols",
+      "B": "A cipher that only deletes letters",
+      "C": "A cipher that assigns user roles",
+      "D": "A cipher that creates digital certificates"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 178,
+    "topic": "Classical Cryptography & Ciphers",
+    "question": "What is a transposition cipher?",
+    "options": {
+      "A": "A cipher that rearranges the positions of symbols",
+      "B": "A cipher that always replaces each letter with a number",
+      "C": "A method of biometric authentication",
+      "D": "A public-key certificate"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 179,
+    "topic": "Classical Cryptography & Ciphers",
+    "question": "Which of the following is a classical substitution cipher?",
+    "options": {
+      "A": "Caesar cipher",
+      "B": "AES",
+      "C": "RSA",
+      "D": "Diffie–Hellman"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 180,
+    "topic": "Classical Cryptography & Ciphers",
+    "question": "Which cipher uses a keyword to control a series of letter substitutions?",
+    "options": {
+      "A": "Vigenère cipher",
+      "B": "DES",
+      "C": "RSA",
+      "D": "Diffie–Hellman"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 181,
+    "topic": "Classical Cryptography & Ciphers",
+    "question": "Which classical cipher uses a pair of letters and a 5×5 letter matrix?",
+    "options": {
+      "A": "Playfair cipher",
+      "B": "Caesar cipher",
+      "C": "RSA",
+      "D": "AES"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 182,
+    "topic": "Classical Cryptography & Ciphers",
+    "question": "Which classical cipher uses matrix operations?",
+    "options": {
+      "A": "Hill cipher",
+      "B": "Rail Fence cipher",
+      "C": "Caesar cipher",
+      "D": "DES"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 183,
+    "topic": "Classical Cryptography & Ciphers",
+    "question": "Which cipher is a transposition cipher that arranges letters in a zigzag pattern?",
+    "options": {
+      "A": "Rail Fence cipher",
+      "B": "RSA",
+      "C": "AES",
+      "D": "Vigenère"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 184,
+    "topic": "Classical Cryptography & Ciphers",
+    "question": "What is a One-Time Pad?",
+    "options": {
+      "A": "A cipher using a truly random key as long as the message, used only once and kept secret",
+      "B": "A password reused for every file",
+      "C": "A public-key certificate",
+      "D": "A role-based access model"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 185,
+    "topic": "Classical Cryptography & Ciphers",
+    "question": "Under what conditions can a One-Time Pad provide perfect secrecy?",
+    "options": {
+      "A": "The key is random, as long as the message, secret, and never reused",
+      "B": "The key is short and reused many times",
+      "C": "The key is publicly available",
+      "D": "No key is required"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 186,
+    "topic": "Classical Cryptography & Ciphers",
+    "question": "What is a cryptographic key?",
+    "options": {
+      "A": "Information used by a cryptographic algorithm to control a transformation",
+      "B": "A user account name",
+      "C": "A file extension",
+      "D": "A physical access door"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 187,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "What are the two main categories of modern encryption?",
+    "options": {
+      "A": "Symmetric and asymmetric encryption",
+      "B": "Physical and administrative encryption",
+      "C": "Identification and accounting",
+      "D": "Read and write encryption"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 188,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "What is symmetric encryption?",
+    "options": {
+      "A": "Encryption and decryption use the same shared secret key",
+      "B": "Encryption uses no key",
+      "C": "Encryption uses a public/private key pair only",
+      "D": "Every user has a different hash function"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 189,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "What is a major requirement for secure symmetric encryption?",
+    "options": {
+      "A": "A strong algorithm and secure key distribution and storage",
+      "B": "Publishing the secret key",
+      "C": "Reusing a weak password",
+      "D": "Avoiding decryption"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 190,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "What is asymmetric encryption?",
+    "options": {
+      "A": "A system that uses a related public/private key pair",
+      "B": "A system that uses no keys",
+      "C": "A system that always uses only one shared secret key",
+      "D": "A system that only rearranges letters"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 191,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "Which key is normally shared publicly in a public-key cryptosystem?",
+    "options": {
+      "A": "Private key",
+      "B": "Public key",
+      "C": "Session secret only",
+      "D": "Password hash salt only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 192,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "Which key must be kept secret by its owner?",
+    "options": {
+      "A": "Public key",
+      "B": "Private key",
+      "C": "Public certificate",
+      "D": "Public identity"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 193,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "Which algorithm is a symmetric block cipher?",
+    "options": {
+      "A": "AES",
+      "B": "RSA",
+      "C": "Diffie–Hellman",
+      "D": "Digital certificates"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 194,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "Which pair consists of symmetric block ciphers?",
+    "options": {
+      "A": "AES and DES",
+      "B": "RSA and Diffie–Hellman",
+      "C": "RSA and AES",
+      "D": "Diffie–Hellman and DES"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 195,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "Which algorithm is an asymmetric public-key algorithm?",
+    "options": {
+      "A": "RSA",
+      "B": "AES",
+      "C": "DES",
+      "D": "Rail Fence"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 196,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "What is a block cipher?",
+    "options": {
+      "A": "A cipher that processes data in fixed-size blocks",
+      "B": "A cipher that processes only usernames",
+      "C": "A cipher that has no key",
+      "D": "A cipher that only rearranges roles"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 197,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "What is a stream cipher?",
+    "options": {
+      "A": "A cipher that processes data as a stream of symbols or units",
+      "B": "A cipher that only processes fixed 128-bit blocks",
+      "C": "A model of access control",
+      "D": "A certificate authority"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 198,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "Which issue can arise when using a block cipher with data that does not fill a complete block?",
+    "options": {
+      "A": "Padding may be required, depending on the mode",
+      "B": "The private key becomes public",
+      "C": "Authentication becomes unnecessary",
+      "D": "All plaintext is automatically deleted"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 199,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "What is DES?",
+    "options": {
+      "A": "A symmetric block cipher",
+      "B": "An asymmetric key-exchange protocol",
+      "C": "An access-control model",
+      "D": "A hashing-only algorithm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 200,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "What is the effective key length of standard DES?",
+    "options": {
+      "A": "32 bits",
+      "B": "56 bits",
+      "C": "128 bits",
+      "D": "256 bits"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 201,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "What is the block size of DES?",
+    "options": {
+      "A": "32 bits",
+      "B": "56 bits",
+      "C": "64 bits",
+      "D": "128 bits"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 202,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "How many rounds does DES use?",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "16",
+      "D": "32"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 203,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "Why is DES considered insecure for modern protection?",
+    "options": {
+      "A": "Its effective key is too short to resist modern brute-force capabilities",
+      "B": "It does not use a key",
+      "C": "It is a biometric system",
+      "D": "It uses a 4096-bit key"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 204,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "What is AES?",
+    "options": {
+      "A": "Advanced Encryption Standard",
+      "B": "Automatic Entry System",
+      "C": "Asymmetric Encryption Service",
+      "D": "Authorized Encryption Security"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 205,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "What is the block size of AES?",
+    "options": {
+      "A": "56 bits",
+      "B": "64 bits",
+      "C": "128 bits",
+      "D": "256 bits"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 206,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "Which key lengths does AES support?",
+    "options": {
+      "A": "56, 64, 80 bits",
+      "B": "128, 192, 256 bits",
+      "C": "32, 64, 96 bits",
+      "D": "512 and 1024 bits only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 207,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "How many rounds does AES-128 use?",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 208,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "How many rounds does AES-192 use?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 209,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "How many rounds does AES-256 use?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 210,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "Which of the following is an AES transformation?",
+    "options": {
+      "A": "ShiftRows",
+      "B": "Account Lockout",
+      "C": "User Identification",
+      "D": "Role Assignment"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 211,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "Which AES transformation substitutes each byte using a substitution table?",
+    "options": {
+      "A": "SubBytes",
+      "B": "ShiftRows",
+      "C": "MixColumns",
+      "D": "AddRoundKey"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 212,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "Which AES transformation shifts the rows of the state?",
+    "options": {
+      "A": "SubBytes",
+      "B": "ShiftRows",
+      "C": "MixColumns",
+      "D": "AddRoundKey"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 213,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "Which AES transformation mixes data within each column?",
+    "options": {
+      "A": "MixColumns",
+      "B": "ShiftRows",
+      "C": "Authentication",
+      "D": "Accounting"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 214,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "Which AES transformation combines the state with a round key?",
+    "options": {
+      "A": "AddRoundKey",
+      "B": "SubBytes",
+      "C": "ShiftRows",
+      "D": "MixColumns"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 215,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "What does confusion aim to do in cryptography?",
+    "options": {
+      "A": "Make the relationship between the key and ciphertext difficult to analyze",
+      "B": "Publish the key",
+      "C": "Remove authentication",
+      "D": "Make plaintext readable to everyone"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 216,
+    "topic": "Symmetric Ciphers (DES & AES)",
+    "question": "What does diffusion aim to do?",
+    "options": {
+      "A": "Spread the influence of plaintext bits across ciphertext bits",
+      "B": "Reveal the secret key",
+      "C": "Delete the ciphertext",
+      "D": "Assign user roles"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 217,
+    "topic": "Asymmetric Cryptography (RSA)",
+    "question": "What is RSA?",
+    "options": {
+      "A": "A public-key cryptographic algorithm",
+      "B": "A physical access-control mechanism",
+      "C": "A classical transposition cipher",
+      "D": "A biometric authentication factor"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 218,
+    "topic": "Asymmetric Cryptography (RSA)",
+    "question": "RSA key generation commonly begins by choosing what?",
+    "options": {
+      "A": "Two prime numbers",
+      "B": "Two usernames",
+      "C": "Two passwords only",
+      "D": "Two hash outputs"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 219,
+    "topic": "Asymmetric Cryptography (RSA)",
+    "question": "In RSA, if the selected primes are p and q, what is n?",
+    "options": {
+      "A": "p + q",
+      "B": "q",
+      "C": "p × q",
+      "D": "p / q"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 220,
+    "topic": "Asymmetric Cryptography (RSA)",
+    "question": "If p = 17 and q = 11, what is n?",
+    "options": {
+      "A": "28",
+      "B": "187",
+      "C": "160",
+      "D": "23"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 221,
+    "topic": "Asymmetric Cryptography (RSA)",
+    "question": "If p = 17 and q = 11, what is φ(n) in the standard RSA calculation?",
+    "options": {
+      "A": "187",
+      "B": "160",
+      "C": "28",
+      "D": "17"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 222,
+    "topic": "Asymmetric Cryptography (RSA)",
+    "question": "In the chapter's RSA example, which value is used as the public exponent e?",
+    "options": {
+      "A": "11",
+      "B": "17",
+      "C": "7",
+      "D": "23"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 223,
+    "topic": "Asymmetric Cryptography (RSA)",
+    "question": "In the chapter's RSA example, what is the private exponent d?",
+    "options": {
+      "A": "7",
+      "B": "11",
+      "C": "17",
+      "D": "23"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 224,
+    "topic": "Asymmetric Cryptography (RSA)",
+    "question": "In the example with p = 17, q = 11, and e = 7, what is the public key?",
+    "options": {
+      "A": "(23, 187)",
+      "B": "(7, 187)",
+      "C": "(17, 11)",
+      "D": "(160, 187)"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 225,
+    "topic": "Asymmetric Cryptography (RSA)",
+    "question": "In the same example, what is the private key?",
+    "options": {
+      "A": "(7, 187)",
+      "B": "(17, 11)",
+      "C": "(23, 187)",
+      "D": "(160, 23)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 226,
+    "topic": "Asymmetric Cryptography (RSA)",
+    "question": "In the chapter's RSA example, if M = 88, what ciphertext C is obtained?",
+    "options": {
+      "A": "88",
+      "B": "11",
+      "C": "187",
+      "D": "23"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 227,
+    "topic": "Asymmetric Cryptography (RSA)",
+    "question": "What happens when the RSA ciphertext is correctly decrypted using the corresponding private key?",
+    "options": {
+      "A": "The original plaintext is recovered",
+      "B": "The ciphertext becomes the public key",
+      "C": "The modulus becomes zero",
+      "D": "The message is permanently deleted"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 228,
+    "topic": "Asymmetric Cryptography (RSA)",
+    "question": "Which key is normally used to encrypt data for a recipient in a basic public-key encryption scheme?",
+    "options": {
+      "A": "The recipient's public key",
+      "B": "The recipient's private key",
+      "C": "The sender's password",
+      "D": "A public hash value"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 229,
+    "topic": "Asymmetric Cryptography (RSA)",
+    "question": "Which key is used to decrypt data encrypted for a recipient using that recipient's public key?",
+    "options": {
+      "A": "The recipient's private key",
+      "B": "The recipient's public key",
+      "C": "Any user's public key",
+      "D": "A digital certificate only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 230,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "What is a cryptographic hash function?",
+    "options": {
+      "A": "A function that maps input data to a fixed-size digest",
+      "B": "A function that always decrypts ciphertext",
+      "C": "A method of assigning employee roles",
+      "D": "A method of physical authentication"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 231,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "What is a hash value?",
+    "options": {
+      "A": "A fixed-size output produced by a hash function",
+      "B": "The private key itself",
+      "C": "The original password in readable form",
+      "D": "A user role"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 232,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "What is a common use of cryptographic hashing?",
+    "options": {
+      "A": "Detecting changes in data",
+      "B": "Physically locking a server room",
+      "C": "Assigning a role to every employee",
+      "D": "Increasing the size of a public key"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 233,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "Which statement best describes a cryptographic hash function?",
+    "options": {
+      "A": "It is generally designed to be one-way, not to recover the original input",
+      "B": "It must always be reversible with a private key",
+      "C": "It is the same as AES encryption",
+      "D": "It is always a digital certificate"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 234,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "What is the digest length of MD5?",
+    "options": {
+      "A": "64 bits",
+      "B": "128 bits",
+      "C": "160 bits",
+      "D": "256 bits"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 235,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "Which statement about MD5 is correct?",
+    "options": {
+      "A": "It is recommended for modern collision-resistant digital signatures",
+      "B": "It produces a 128-bit digest but is no longer considered secure against collision attacks",
+      "C": "It is a public-key encryption algorithm",
+      "D": "It is an access-control model"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 236,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "In the chapter's historical discussion, what digest length is associated with the SHA/SHS version presented there?",
+    "options": {
+      "A": "56 bits",
+      "B": "64 bits",
+      "C": "128 bits",
+      "D": "160 bits"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 237,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "What is a digital signature primarily used to provide?",
+    "options": {
+      "A": "Authenticity, integrity, and support for non-repudiation",
+      "B": "Confidentiality in every case by itself",
+      "C": "Physical security",
+      "D": "Password storage only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 238,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "Which key does the signer use to create a conventional public-key digital signature?",
+    "options": {
+      "A": "The signer's private key",
+      "B": "The signer's public key",
+      "C": "The recipient's password",
+      "D": "A public certificate only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 239,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "Which key is normally used to verify a digital signature?",
+    "options": {
+      "A": "The signer's public key",
+      "B": "The signer's private key",
+      "C": "The recipient's private key",
+      "D": "A shared password only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 240,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "Does a digital signature, by itself, necessarily provide message confidentiality?",
+    "options": {
+      "A": "Yes, always",
+      "B": "No",
+      "C": "Only if the message is long",
+      "D": "Only if the hash is 128 bits"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 241,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "What is a digital certificate used for?",
+    "options": {
+      "A": "Binding an identity to a public key",
+      "B": "Replacing all private keys",
+      "C": "Encrypting every file automatically",
+      "D": "Removing the need for verification"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 242,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "What is the role of a Certificate Authority (CA)?",
+    "options": {
+      "A": "Issuing or signing certificates according to its certificate process",
+      "B": "Recovering every user's private key",
+      "C": "Replacing the operating system",
+      "D": "Assigning physical access cards only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 243,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "What is a common purpose of a hash in a digital-signature process?",
+    "options": {
+      "A": "To create a digest of the message that can be signed and verified",
+      "B": "To replace the public key with a password",
+      "C": "To hide the existence of the message",
+      "D": "To provide physical access"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 244,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "What is the purpose of key exchange?",
+    "options": {
+      "A": "To establish or share keying material between parties",
+      "B": "To delete all public keys",
+      "C": "To change plaintext into a hash only",
+      "D": "To create user roles"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 245,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "What is Diffie–Hellman primarily used for?",
+    "options": {
+      "A": "Establishing a shared secret over a communication channel",
+      "B": "Encrypting data using AES rounds",
+      "C": "Managing user roles",
+      "D": "Creating fingerprints"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 246,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "Does basic Diffie–Hellman, by itself, authenticate the identity of the other party?",
+    "options": {
+      "A": "Yes, always",
+      "B": "No",
+      "C": "Only when the key is 128 bits",
+      "D": "Only when the user has a password"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 247,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "What is a major challenge in symmetric-key cryptography?",
+    "options": {
+      "A": "Securely distributing and protecting the shared secret key",
+      "B": "The absence of a secret key",
+      "C": "The requirement to publish every key",
+      "D": "The inability to encrypt data"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 248,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "For n users who each need a distinct symmetric key with every other user, how many pairwise keys are required?",
+    "options": {
+      "A": "n",
+      "B": "n^2",
+      "C": "n(n - 1) / 2",
+      "D": "2n"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 249,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "In a basic public-key system, how many keys are associated with each user?",
+    "options": {
+      "A": "One public/private pair, or two keys",
+      "B": "One key for the entire world",
+      "C": "No keys",
+      "D": "Four private keys only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 250,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "For n users, if each user has one public/private key pair, how many individual public and private keys are there altogether?",
+    "options": {
+      "A": "n",
+      "B": "2n",
+      "C": "n(n - 1)",
+      "D": "n(n - 1) / 2"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 251,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "Which tool is commonly used for cryptographic operations and certificate management?",
+    "options": {
+      "A": "OpenSSL",
+      "B": "Microsoft Paint",
+      "C": "Calculator only",
+      "D": "Notepad only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 252,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "Which tools are associated with password-hash auditing and password recovery testing?",
+    "options": {
+      "A": "Hashcat and John the Ripper",
+      "B": "AES and RSA",
+      "C": "RBAC and ABAC",
+      "D": "Playfair and Rail Fence"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 253,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "Which tools are associated with learning, exploring, or experimenting with cryptography?",
+    "options": {
+      "A": "CrypTool and CyberChef",
+      "B": "RBAC and MAC",
+      "C": "Bell–LaPadula and Biba",
+      "D": "Smart cards and fingerprints"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 254,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "Which tool is commonly used for network-protocol analysis?",
+    "options": {
+      "A": "Wireshark",
+      "B": "Hill cipher",
+      "C": "AES",
+      "D": "Graham–Denning"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 255,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "Which tool is associated with wireless-network security auditing?",
+    "options": {
+      "A": "Aircrack-ng",
+      "B": "Clark–Wilson",
+      "C": "Bell–LaPadula",
+      "D": "MD5"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 256,
+    "topic": "Hashing, Signatures, Key Exchange & Tools",
+    "question": "Which tool is associated with mathematical computation and experimentation?",
+    "options": {
+      "A": "SageMath",
+      "B": "RBAC",
+      "C": "MAC",
+      "D": "Smart card"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 257,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "Why is protecting programs at the heart of computer security?",
+    "options": {
+      "A": "Programs only store passwords.",
+      "B": "Programs constitute a large part of computing systems.",
+      "C": "Programs cannot access memory.",
+      "D": "Programs do not interact with operating systems."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 258,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "What is a programming flaw?",
+    "options": {
+      "A": "A security policy.",
+      "B": "A defect in a program that may cause incorrect or unsafe behavior.",
+      "C": "A hardware upgrade.",
+      "D": "A type of network cable."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 259,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "Which of the following describes an intentional flaw?",
+    "options": {
+      "A": "A defect introduced deliberately.",
+      "B": "A defect caused only by hardware failure.",
+      "C": "A defect introduced accidentally.",
+      "D": "A correct programming instruction."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 260,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "Which of the following describes an inadvertent flaw?",
+    "options": {
+      "A": "A defect introduced intentionally.",
+      "B": "A defect introduced unintentionally.",
+      "C": "A security control.",
+      "D": "A hardware protection mechanism."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 261,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "Which term refers to a weakness that an attacker may exploit?",
+    "options": {
+      "A": "Countermeasure.",
+      "B": "Vulnerability.",
+      "C": "Documentation.",
+      "D": "Availability."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 262,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "What does a countermeasure do?",
+    "options": {
+      "A": "Always creates a vulnerability.",
+      "B": "Prevents, detects, or reduces the impact of a security problem.",
+      "C": "Disables all system functions.",
+      "D": "Removes the need for security testing."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 263,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "What is a buffer?",
+    "options": {
+      "A": "An allocated segment of memory.",
+      "B": "A user account.",
+      "C": "A network connection.",
+      "D": "A security policy."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 264,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "A buffer overflow occurs when:",
+    "options": {
+      "A": "A program writes within the allocated memory boundaries.",
+      "B": "A program writes beyond the allocated buffer boundaries.",
+      "C": "A program closes a file.",
+      "D": "A user changes a password."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 265,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "Consider the following declaration: char sample[10]; Which index is outside the valid array boundaries?",
+    "options": {
+      "A": "sample[0]",
+      "B": "sample[5]",
+      "C": "sample[9]",
+      "D": "sample[10]"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 266,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "Which memory area is commonly associated with dynamically allocated data?",
+    "options": {
+      "A": "Stack.",
+      "B": "Heap.",
+      "C": "Program Counter.",
+      "D": "Return Address."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 267,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "Which memory area stores information associated with procedure calls and returns?",
+    "options": {
+      "A": "Stack.",
+      "B": "Heap.",
+      "C": "Network buffer only.",
+      "D": "Disk partition."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 268,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "What does the Program Counter identify?",
+    "options": {
+      "A": "The password of the current user.",
+      "B": "The address of the next instruction to execute.",
+      "C": "The size of the heap.",
+      "D": "The number of files on disk."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 269,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "What is the purpose of a return address?",
+    "options": {
+      "A": "To identify the next user account.",
+      "B": "To determine where execution resumes after a procedure returns.",
+      "C": "To allocate disk space.",
+      "D": "To validate a date."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 270,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "What is a possible consequence of a buffer overflow?",
+    "options": {
+      "A": "It always improves performance.",
+      "B": "It may overwrite adjacent memory and affect program execution.",
+      "C": "It always deletes the operating system.",
+      "D": "It cannot affect security."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 271,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "Which of the following may be affected by an overflow, according to the lecture's memory examples?",
+    "options": {
+      "A": "Only the keyboard.",
+      "B": "Only the monitor.",
+      "C": "Another data item, an instruction, another program's data or code, or operating-system data or code.",
+      "D": "Only the network cable."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 272,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "What is privilege escalation?",
+    "options": {
+      "A": "Reducing the number of program instructions.",
+      "B": "Gaining higher privileges than originally permitted.",
+      "C": "Reducing the amount of allocated memory.",
+      "D": "Checking array boundaries."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 273,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "How may a buffer overflow affect the stack?",
+    "options": {
+      "A": "By changing a return address or other stack information.",
+      "B": "By automatically repairing all program defects.",
+      "C": "By changing the physical keyboard.",
+      "D": "By preventing all procedure calls."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 274,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "Which of the following is an overflow countermeasure?",
+    "options": {
+      "A": "Accepting unlimited input.",
+      "B": "Ignoring array boundaries.",
+      "C": "Checking lengths before writing.",
+      "D": "Disabling code review."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 275,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "Which of the following helps detect unsafe conditions in source code?",
+    "options": {
+      "A": "Static code analyzer.",
+      "B": "Word processor.",
+      "C": "Media player.",
+      "D": "File compression tool."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 276,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "Which programming languages are mentioned in the lecture as providing bounds-checking features?",
+    "options": {
+      "A": "Java, .NET, Perl, and Python.",
+      "B": "HTML, CSS, and SQL only.",
+      "C": "Assembly only.",
+      "D": "C and C++ only."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 277,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "Which languages are described in the lecture as allowing largely unchecked memory access?",
+    "options": {
+      "A": "Java and Python.",
+      "B": "C, C++, and Assembly.",
+      "C": "HTML and CSS.",
+      "D": "SQL and XML."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 278,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "What is the purpose of a canary in stack protection?",
+    "options": {
+      "A": "To increase the size of the program.",
+      "B": "To help detect unexpected stack corruption.",
+      "C": "To encrypt all network traffic.",
+      "D": "To replace the compiler."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 279,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "Which statement best describes the responsibility for preventing buffer overflows?",
+    "options": {
+      "A": "Only the end user is responsible.",
+      "B": "Only the operating system is responsible.",
+      "C": "The programmer, operating system, compiler, and hardware share responsibility.",
+      "D": "No component can help prevent them."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 280,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "What is the purpose of limiting a program's privileges?",
+    "options": {
+      "A": "To ensure that every process becomes an administrator.",
+      "B": "To reduce the damage if the program is compromised.",
+      "C": "To disable input validation.",
+      "D": "To remove the need for memory protection."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 281,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "Which programming error occurs when an array boundary or count is one greater or one less than intended?",
+    "options": {
+      "A": "Integer overflow.",
+      "B": "Off-by-one error.",
+      "C": "Complete mediation.",
+      "D": "Virus signature."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 282,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "What is integer overflow?",
+    "options": {
+      "A": "An arithmetic result exceeds the representable range of an integer type.",
+      "B": "A string contains a valid null terminator.",
+      "C": "A program performs a successful backup.",
+      "D": "A user enters the correct password."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 283,
+    "topic": "Software Security & Buffer Overflows",
+    "question": "What is an unterminated null-terminated string?",
+    "options": {
+      "A": "A string containing only numbers.",
+      "B": "A string missing its required null character terminator.",
+      "C": "A string with too many spaces only.",
+      "D": "A string stored exclusively on a network."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 284,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "What does mediation mean in access control?",
+    "options": {
+      "A": "Checking whether a subject is authorized to perform an operation on an object.",
+      "B": "Encrypting every file automatically.",
+      "C": "Increasing the speed of a processor.",
+      "D": "Deleting all user accounts."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 285,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "In access control, what is a subject?",
+    "options": {
+      "A": "The resource being accessed.",
+      "B": "The entity requesting access.",
+      "C": "A type of malware.",
+      "D": "A memory address."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 286,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "In access control, what is an object?",
+    "options": {
+      "A": "The entity requesting access.",
+      "B": "The resource that a subject wants to access.",
+      "C": "A type of password.",
+      "D": "A program counter."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 287,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "Incomplete mediation occurs when:",
+    "options": {
+      "A": "Every access is checked appropriately.",
+      "B": "An application accepts incorrect input or fails to perform adequate checks.",
+      "C": "A system performs a backup.",
+      "D": "A program closes normally."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 288,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "What is the main purpose of input validation?",
+    "options": {
+      "A": "To accept all possible inputs.",
+      "B": "To ensure that input data satisfy the required rules and constraints.",
+      "C": "To remove all user permissions.",
+      "D": "To prevent users from accessing the interface."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 289,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "Which of the following is an example of invalid input?",
+    "options": {
+      "A": "2009Jan17",
+      "B": "2024Feb20",
+      "C": "1800Feb30",
+      "D": "2025Mar15"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 290,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "Why should a web application not trust a price passed in a URL?",
+    "options": {
+      "A": "URLs cannot contain numbers.",
+      "B": "A user may modify the price before submitting the request.",
+      "C": "Prices must always be negative.",
+      "D": "The browser prevents every possible modification."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 291,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "Which statement expresses the principle emphasized in the lecture?",
+    "options": {
+      "A": "If data are displayed, they cannot be changed.",
+      "B": "If data can be changed, assume they have been.",
+      "C": "Users never make mistakes.",
+      "D": "Browser validation is always sufficient."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 292,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "Which of the following is a property of a reference monitor?",
+    "options": {
+      "A": "It must always be bypassable.",
+      "B": "It must be invoked only occasionally.",
+      "C": "It must be small and simple enough to support confidence in its correctness.",
+      "D": "It must allow every user unrestricted access."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 293,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "What does Unbypassable mean?",
+    "options": {
+      "A": "The access-control mechanism cannot be bypassed.",
+      "B": "The mechanism is never executed.",
+      "C": "The mechanism accepts every request.",
+      "D": "The mechanism operates only during backups."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 294,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "What does Always Invoked mean for a reference monitor?",
+    "options": {
+      "A": "It checks access only after an incident.",
+      "B": "It is invoked whenever the relevant access check is required.",
+      "C": "It is invoked only when the administrator logs in.",
+      "D": "It checks only network traffic."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 295,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "What does TOCTTOU stand for?",
+    "options": {
+      "A": "Time-of-Check to Time-of-Use.",
+      "B": "Type-of-Code to Type-of-User.",
+      "C": "Transfer-of-Control to Transfer-of-User.",
+      "D": "Time-of-Copy to Time-of-Update."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 296,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "A TOCTTOU vulnerability occurs when:",
+    "options": {
+      "A": "A program validates data and the data never change.",
+      "B": "A condition changes after checking but before using the result.",
+      "C": "A program uses no memory.",
+      "D": "A user creates a strong password."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 297,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "TOCTTOU is associated with which general issue?",
+    "options": {
+      "A": "Synchronization and timing.",
+      "B": "Image compression.",
+      "C": "Password length only.",
+      "D": "Screen resolution."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 298,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "Which security failures may result from a TOCTTOU vulnerability?",
+    "options": {
+      "A": "Confidentiality failure only in every case.",
+      "B": "Integrity failure only in every case.",
+      "C": "Confidentiality failure, integrity failure, or both.",
+      "D": "Neither confidentiality nor integrity can be affected."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 299,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "Which is a possible TOCTTOU countermeasure?",
+    "options": {
+      "A": "Allowing users to change critical data after validation.",
+      "B": "Copying request data into a protected area before validation.",
+      "C": "Ignoring access-control checks.",
+      "D": "Trusting old validation results indefinitely."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 300,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "What does serial integrity aim to protect in the TOCTTOU context?",
+    "options": {
+      "A": "The continuity and integrity of a sensitive operation.",
+      "B": "The physical appearance of the computer.",
+      "C": "The number of installed applications.",
+      "D": "The length of a password."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 301,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "What is a race condition?",
+    "options": {
+      "A": "A defect whose outcome depends on the timing or ordering of concurrent activities.",
+      "B": "A type of backup.",
+      "C": "A password policy.",
+      "D": "A form of input validation."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 302,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "An undocumented access point is also called:",
+    "options": {
+      "A": "Heap.",
+      "B": "Backdoor or Trapdoor.",
+      "C": "Stack Pointer.",
+      "D": "Virus Signature."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 303,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "Why might a developer create a trapdoor during program development?",
+    "options": {
+      "A": "To support testing or inspect internal program behavior.",
+      "B": "To increase the monitor's size.",
+      "C": "To prevent all debugging.",
+      "D": "To eliminate the need for source code."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 304,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "Which is a possible reason a trapdoor remains in a production system?",
+    "options": {
+      "A": "The developer forgets to remove it.",
+      "B": "The computer has a keyboard.",
+      "C": "The system contains a database.",
+      "D": "The program has comments."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 305,
+    "topic": "Mediation, Reference Monitor & TOCTTOU",
+    "question": "Why can a backdoor be dangerous?",
+    "options": {
+      "A": "It always improves security.",
+      "B": "It may provide access outside the system's normal access procedures.",
+      "C": "It prevents all unauthorized access automatically.",
+      "D": "It cannot affect production systems."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 306,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What does malware mean?",
+    "options": {
+      "A": "Managed hardware.",
+      "B": "Malicious software.",
+      "C": "Memory allocation.",
+      "D": "Machine language."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 307,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "Which of the following best describes malicious code?",
+    "options": {
+      "A": "Code deliberately introduced to cause undesirable effects.",
+      "B": "Code used exclusively for documentation.",
+      "C": "Code that cannot execute.",
+      "D": "Code that always protects data."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 308,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "Which of the following is an example of a malware trigger?",
+    "options": {
+      "A": "A specified date.",
+      "B": "A specified event.",
+      "C": "A specified condition.",
+      "D": "All of the above."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 309,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "Which statement best defines a computer virus?",
+    "options": {
+      "A": "A program that replicates by modifying other programs.",
+      "B": "A program used only to validate dates.",
+      "C": "A program that can never replicate.",
+      "D": "A hardware component."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 310,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "Which virus depends on its host program and generally operates while the host is running?",
+    "options": {
+      "A": "Resident virus.",
+      "B": "Transient virus.",
+      "C": "Worm.",
+      "D": "Rabbit."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 311,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "Which virus can remain active in memory after the associated program ends?",
+    "options": {
+      "A": "Transient virus.",
+      "B": "Resident virus.",
+      "C": "Time bomb.",
+      "D": "Trojan horse."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 312,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What is the defining characteristic of a Trojan horse in the lecture?",
+    "options": {
+      "A": "It spreads copies of itself through a network.",
+      "B": "It has a second, nonobvious malicious effect.",
+      "C": "It activates only at midnight.",
+      "D": "It always exhausts disk space."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 313,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "A logic bomb activates when:",
+    "options": {
+      "A": "A specified condition occurs.",
+      "B": "A computer is manufactured.",
+      "C": "A monitor is replaced.",
+      "D": "A file is printed in every case."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 314,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "A time bomb is a type of logic bomb triggered by:",
+    "options": {
+      "A": "A particular time or date.",
+      "B": "A particular screen size.",
+      "C": "A particular keyboard layout.",
+      "D": "A particular file extension only."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 315,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "Which malicious program spreads copies of itself through a network?",
+    "options": {
+      "A": "Worm.",
+      "B": "Canary.",
+      "C": "Reference monitor.",
+      "D": "Static code analyzer."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 316,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What is a rabbit designed to do?",
+    "options": {
+      "A": "Improve authentication.",
+      "B": "Exhaust computing resources through uncontrolled replication.",
+      "C": "Detect array boundaries.",
+      "D": "Validate user identities."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 317,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What is ransomware commonly designed to do?",
+    "options": {
+      "A": "Encrypt data and demand payment.",
+      "B": "Check source code for errors.",
+      "C": "Improve memory allocation.",
+      "D": "Validate all URL parameters."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 318,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What is the main purpose of a rootkit?",
+    "options": {
+      "A": "To make malicious activity difficult to detect or help maintain access.",
+      "B": "To validate dates.",
+      "C": "To check array boundaries.",
+      "D": "To improve document formatting."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 319,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What does a keystroke logger record?",
+    "options": {
+      "A": "The keys pressed by a user.",
+      "B": "The size of the monitor.",
+      "C": "The temperature of the processor only.",
+      "D": "The number of installed printers."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 320,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What is phishing?",
+    "options": {
+      "A": "A deceptive technique used to trick people into revealing sensitive information or taking unsafe actions.",
+      "B": "A memory-allocation technique.",
+      "C": "A type of array.",
+      "D": "A software-testing phase."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 321,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "Vishing is most closely associated with:",
+    "options": {
+      "A": "Voice-based or telephone phishing.",
+      "B": "Buffer allocation.",
+      "C": "Static code analysis.",
+      "D": "Disk formatting."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 322,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "Which set represents the four aspects used to study malicious-code infections?",
+    "options": {
+      "A": "Harm, Transmission and Propagation, Activation, Stealth.",
+      "B": "Design, Printing, Formatting, Documentation.",
+      "C": "Authentication, Printing, Backup, Deletion.",
+      "D": "Input, Output, Display, Storage."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 323,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "Which aspect describes how malicious code spreads and causes additional infections?",
+    "options": {
+      "A": "Harm.",
+      "B": "Transmission and Propagation.",
+      "C": "Activation.",
+      "D": "Stealth."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 324,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "Which aspect describes how malicious code conceals its presence to avoid detection?",
+    "options": {
+      "A": "Harm.",
+      "B": "Activation.",
+      "C": "Stealth.",
+      "D": "Transmission."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 325,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What is a virus signature?",
+    "options": {
+      "A": "A recognizable pattern used to identify a known virus.",
+      "B": "A user's handwritten signature.",
+      "C": "A password policy.",
+      "D": "A network cable."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 326,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What is one limitation of signature-based virus scanners?",
+    "options": {
+      "A": "They never require updates.",
+      "B": "New malware may not match existing signatures.",
+      "C": "They cannot search files.",
+      "D": "They automatically detect every possible threat."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 327,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What does an IDS primarily do?",
+    "options": {
+      "A": "Detects suspicious activity or intrusions.",
+      "B": "Prevents every possible attack automatically.",
+      "C": "Allocates memory.",
+      "D": "Validates dates only."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 328,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What does an IPS primarily do?",
+    "options": {
+      "A": "Records keystrokes only.",
+      "B": "Prevents or blocks detected malicious activity according to its capabilities and policies.",
+      "C": "Stores return addresses.",
+      "D": "Checks whether a date is valid."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 329,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What is a man-in-the-middle attack?",
+    "options": {
+      "A": "An attacker intervenes between communicating parties to monitor or manipulate communication.",
+      "B": "A program checks array boundaries.",
+      "C": "A user changes a desktop background.",
+      "D": "A backup system restores files."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 330,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What is a timing attack?",
+    "options": {
+      "A": "An attack that uses information about execution time to infer sensitive information.",
+      "B": "An attack that always requires physical damage.",
+      "C": "A backup procedure.",
+      "D": "A type of array-boundary check."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 331,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What is a covert channel?",
+    "options": {
+      "A": "A hidden communication path that may be used to transfer information.",
+      "B": "A public documentation page.",
+      "C": "A type of program counter.",
+      "D": "A compiler warning."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 332,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What is a rootkit's concealment capability primarily intended to achieve?",
+    "options": {
+      "A": "Make malicious activity harder to discover.",
+      "B": "Make all data public.",
+      "C": "Prevent every program from running.",
+      "D": "Remove the need for authentication."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 333,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "Which of the following is an example of interface illusion?",
+    "options": {
+      "A": "A fake web page made to appear genuine.",
+      "B": "A correct date entered in a form.",
+      "C": "A secure array access.",
+      "D": "A successful system backup."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 334,
+    "topic": "Malware & Attack Mechanisms",
+    "question": "What is the purpose of a salami attack, in its general security meaning?",
+    "options": {
+      "A": "To accumulate small unauthorized gains or changes that may be difficult to notice individually.",
+      "B": "To check array boundaries.",
+      "C": "To validate all user identities.",
+      "D": "To improve system backups."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 335,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "What is social engineering?",
+    "options": {
+      "A": "Manipulating people into revealing information or performing unsafe actions.",
+      "B": "Allocating memory dynamically.",
+      "C": "Checking a program's syntax.",
+      "D": "Updating a compiler."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 336,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "What does a clean desk policy require?",
+    "options": {
+      "A": "Leaving sensitive documents exposed.",
+      "B": "Securing sensitive documents instead of leaving them exposed.",
+      "C": "Disabling authentication.",
+      "D": "Sharing passwords with colleagues."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 337,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "What does a clean screen policy require?",
+    "options": {
+      "A": "Leaving sensitive information visible.",
+      "B": "Locking the screen or preventing sensitive information from remaining visible when unattended.",
+      "C": "Disabling screen protection.",
+      "D": "Displaying passwords publicly."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 338,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which is a recommended password practice?",
+    "options": {
+      "A": "Reusing the same password everywhere.",
+      "B": "Using strong passwords and avoiding reuse across different services.",
+      "C": "Sharing passwords publicly.",
+      "D": "Writing passwords into public documents."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 339,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which practice helps reduce malware infection risk?",
+    "options": {
+      "A": "Installing software from untrusted sources without checking it.",
+      "B": "Keeping anti-malware tools updated and being cautious with suspicious attachments.",
+      "C": "Disabling all security controls.",
+      "D": "Ignoring software updates."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 340,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Why are backups important?",
+    "options": {
+      "A": "They eliminate every vulnerability.",
+      "B": "They can help restore data after an incident.",
+      "C": "They prevent all phishing attacks.",
+      "D": "They replace authentication."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 341,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "What is SSDLC?",
+    "options": {
+      "A": "Secure Software Development Life Cycle.",
+      "B": "Standard System Data Level Control.",
+      "C": "Software Storage and Disk Loading Code.",
+      "D": "Secure Server Data Link Connection."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 342,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "What is the main goal of SSDLC?",
+    "options": {
+      "A": "To consider security only after deployment.",
+      "B": "To integrate security activities throughout the software development process.",
+      "C": "To eliminate all testing.",
+      "D": "To give every user administrator privileges."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 343,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which of the following is a phase of SSDLC?",
+    "options": {
+      "A": "Security Requirements.",
+      "B": "Security Design.",
+      "C": "Security Testing.",
+      "D": "All of the above."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 344,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "What is a security requirement?",
+    "options": {
+      "A": "A requirement that supports the security objectives of a system.",
+      "B": "A requirement to remove all access controls.",
+      "C": "A requirement to avoid testing.",
+      "D": "A requirement to make all files public."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 345,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which question does identification answer?",
+    "options": {
+      "A": "What are you allowed to do?",
+      "B": "Who are you claiming to be?",
+      "C": "How large is the database?",
+      "D": "Which memory area stores dynamic data?"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 346,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which question does authentication answer?",
+    "options": {
+      "A": "How can the claimed identity be verified?",
+      "B": "Which operations are permitted?",
+      "C": "How much memory is allocated?",
+      "D": "Which program is running?"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 347,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which question does authorization answer?",
+    "options": {
+      "A": "Who are you?",
+      "B": "How do you prove your identity?",
+      "C": "What are you permitted to access or do?",
+      "D": "What is the program counter?"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 348,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which security requirement is most directly concerned with preventing unauthorized modification of data?",
+    "options": {
+      "A": "Integrity requirement.",
+      "B": "Privacy requirement.",
+      "C": "Physical protection requirement.",
+      "D": "Documentation requirement."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 349,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which security requirement concerns recording and reviewing security-related activities?",
+    "options": {
+      "A": "Security auditing requirement.",
+      "B": "Portability requirement.",
+      "C": "Usability requirement.",
+      "D": "Scalability requirement."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 350,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which requirement concerns protecting personal information?",
+    "options": {
+      "A": "Privacy requirement.",
+      "B": "Integer overflow.",
+      "C": "Buffer overflow.",
+      "D": "Stack pointer."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 351,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which requirement concerns maintaining essential services despite failures or attacks?",
+    "options": {
+      "A": "Survivability requirement.",
+      "B": "Authentication requirement.",
+      "C": "Input validation.",
+      "D": "Virus signature."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 352,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which of the following is NOT a reference monitor property?",
+    "options": {
+      "A": "Small and simple enough.",
+      "B": "Unbypassable.",
+      "C": "Always invoked.",
+      "D": "Must accept all access requests."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 353,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which of the following is NOT a recommended buffer overflow countermeasure?",
+    "options": {
+      "A": "Check lengths before writing.",
+      "B": "Confirm array subscripts are within limits.",
+      "C": "Limit the program's privileges.",
+      "D": "Ignore boundary conditions."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 354,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which statement best distinguishes a virus from a worm?",
+    "options": {
+      "A": "A virus commonly modifies other programs, while a worm spreads copies of itself through a network.",
+      "B": "A virus only uses networks, while a worm only modifies host files.",
+      "C": "Both terms always mean exactly the same thing.",
+      "D": "Neither can replicate."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 355,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which statement about logic bombs is correct?",
+    "options": {
+      "A": "Every logic bomb is necessarily a time bomb.",
+      "B": "A logic bomb activates when a specified condition occurs.",
+      "C": "A logic bomb is a memory register.",
+      "D": "A logic bomb always performs backups."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 356,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which of the following is NOT one of the four aspects used to study malicious-code infections?",
+    "options": {
+      "A": "Harm.",
+      "B": "Transmission and Propagation.",
+      "C": "Activation.",
+      "D": "Authentication."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 357,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which measure directly reduces the consequences of a program compromise caused by excessive privileges?",
+    "options": {
+      "A": "Least privilege.",
+      "B": "Password reuse.",
+      "C": "Disabling validation.",
+      "D": "Removing all monitoring."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 358,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which of the following is most closely associated with malware concealment?",
+    "options": {
+      "A": "Stealth.",
+      "B": "Activation.",
+      "C": "Input validation.",
+      "D": "Memory allocation."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 359,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which of the following is a security requirement rather than a memory structure?",
+    "options": {
+      "A": "Stack.",
+      "B": "Heap.",
+      "C": "Privacy requirement.",
+      "D": "Return address."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 360,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which activity belongs to the maintenance phase of SSDLC?",
+    "options": {
+      "A": "Addressing security issues and maintaining the system after deployment.",
+      "B": "Ignoring newly discovered vulnerabilities.",
+      "C": "Removing all testing.",
+      "D": "Allowing unauthorized access."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 361,
+    "topic": "SSDLC, Security Policies & Identity",
+    "question": "Which is the correct order of the three identity and access-control concepts?",
+    "options": {
+      "A": "Authorization → Identification → Authentication.",
+      "B": "Authentication → Authorization → Identification.",
+      "C": "Identification → Authentication → Authorization.",
+      "D": "Identification → Authorization → Authentication."
+    },
+    "answer": "C"
+  }
+]
